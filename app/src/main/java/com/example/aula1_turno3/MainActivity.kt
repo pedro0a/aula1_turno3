@@ -15,5 +15,7 @@ class MainActivity : AppCompatActivity() {
         // alteracao do Github
 
         // login
+
+        // registar
     }
 }
