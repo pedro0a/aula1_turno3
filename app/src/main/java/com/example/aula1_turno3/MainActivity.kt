@@ -21,5 +21,7 @@ class MainActivity : AppCompatActivity() {
         // registar
 
         // reset password
+
+        // outra coisa
     }
 }
